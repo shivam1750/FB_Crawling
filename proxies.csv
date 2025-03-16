@@ -1,0 +1,7 @@
+# Sample proxies for Facebook page crawler
+# Format: scheme://username:password@ip:port or scheme://ip:port
+http://203.0.113.1:8080
+http://203.0.113.2:3128
+https://203.0.113.3:8080
+https://user:pass@203.0.113.4:8080
+http://203.0.113.5:80
